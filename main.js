@@ -1,4 +1,4 @@
-const edition = 37;
+const edition = 1;
 
 const paramsString =
     `
